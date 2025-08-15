@@ -5,7 +5,7 @@ Fuse semantic intelligence with keyword precision for next gen document search s
 ![InsightForge Screenshot](images/front_page_pdfapp.png)
 
 
-🚀 Overview
+ Overview
 
 InsightForge is a privacy first local Retrieval Augmented Generation (RAG) platform for mastering PDF collections.
 It merges semantic search with keyword retrieval to deliver accurate context rich answers and summaries without sending your data to the cloud.
@@ -49,7 +49,7 @@ Note: Since InsightForge runs entirely locally, there’s no public link,but tha
 
 ✅ Performance & Robustness – Handles large PDFs, measures latency, and manages errors gracefully.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Layer               | Technology Used                          |
 |---------------------|------------------------------------------|
@@ -81,7 +81,7 @@ ollama pull llama2
 streamlit run app.py
 ```
 he app will open in your browser at http://localhost:8501.
-## 🎯 Example Use Cases
+##  Example Use Cases
 
 -  **Academic Research** – Search across 100+ research papers with semantic precision.  
 -  **Enterprise Docs** – Keep proprietary PDFs secure while enabling smart search.  
@@ -89,7 +89,7 @@ he app will open in your browser at http://localhost:8501.
 
 ---
 
-## 📌 Strengths of InsightForge
+##  Strengths of InsightForge
 
 - **Hybrid Intelligence** – Semantic + keyword retrieval beats either approach alone.  
 - **Privacy by Design** – All processing stays on your machine.  
